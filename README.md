@@ -22,4 +22,4 @@ MSPAMX = https://cararegistrasi.com/TyFy5LZFE
 
 MBOTX = https://cararegistrasi.com/OICOAmSnq
 
-MTTSX = 
+MTTSX = https://cararegistrasi.com/TokenMttsX
