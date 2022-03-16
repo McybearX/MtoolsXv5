@@ -155,7 +155,7 @@ def menu():
 			sistem("cd .,/MttsX && python mttsx.py")
 		else:
 			info_toket()
-#			sistem("xdg-open https://cararegistrasi.com/OICOAmSnq")
+			sistem("xdg-open https://cararegistrasi.com/TokenMttsX")
 			iw=usup(mx+p+" Masukan Token : \x1b[0;00m")
 			if iw==tok6:
 				iklan()
