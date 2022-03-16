@@ -1,8 +1,8 @@
 
 pkg update -y
 pkg install mpv -y
-pkg install gtts
-pkg install transgoogle
+pkg install gtts -y
+pkg install transgoogle -y
 pkg install play-audio -y
 pkg install python2 -y
 pkg install python -y
