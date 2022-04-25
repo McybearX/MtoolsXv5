@@ -21,5 +21,6 @@ pip install futures
 pip install mechanize
 pip install ipaddress
 pip install hashlib
+pip install googletrans==3.1.0a0
 #mv bin/thunder.py $PREFIX/lib/python3.10
 python3 menu.py
